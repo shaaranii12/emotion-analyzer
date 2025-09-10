@@ -19,9 +19,11 @@ This project is part of my data science portfolio and demonstrates skills in NLP
 The model was fine-tuned using the j-hartmann/emotion-english-distilroberta-base transformer, and evaluated to measure its performance across different emotion categories
 
 ### Confusion Matrix
-- image
+![Confusion Matrix](images/ConfusionMatrix.png)  
 
 ### Input and Prediction Examples
+![Demo 1](images/demo1.png)
+![Demo 2](images/demo2.png)  
 
 ## Tools and Technologies used 
 - **Python**  
